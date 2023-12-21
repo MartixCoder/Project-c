@@ -9,7 +9,7 @@ const Hero = () => {
           I&apos;m a New developer with 0 years of experience using HTML and
           CSS. Reach out if you&apos;d like to learn more!
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="#" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
