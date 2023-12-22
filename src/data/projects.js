@@ -3,8 +3,8 @@ export default [
     title: "Project A",
     imageSrc: "projects/project.png",
     description:
-      "This is a project made to learn the latest languages by building an app.",
-    skills: ["React", "Express", "Node"],
+      "This is a project made to learn the latest Html&Css by building an app.",
+    skills: ["HTML", "CSS"],
     demo: "https://www.example.com",
     source: "https://www.github.com",
   },
@@ -12,8 +12,8 @@ export default [
     title: "Project B",
     imageSrc: "projects/project.png",
     description:
-      "This is a project made to learn the latest languages by building an app.",
-    skills: ["React", "Express", "Node", "Sass"],
+      "This is a project made to learn the latest Html&Css by building an app.",
+    skills: ["HTML", "CSS"],
     demo: "https://www.example.com",
     source: "https://www.github.com",
   },
@@ -21,8 +21,8 @@ export default [
     title: "Project C",
     imageSrc: "projects/project.png",
     description:
-      "This is a project made to learn the latest languages by building an app.",
-    skills: ["React", "Express", "Node"],
+      "This is a project made to learn the latest Html&Css by building an app.",
+    skills: ["HTML", "CSS"],
     demo: "https://www.example.com",
     source: "https://www.github.com",
   },
